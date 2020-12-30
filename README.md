@@ -14,6 +14,8 @@ Columns:
   
 # Models Tested
   Autoregressive (AR)  
+  Moving Average (MA)  
   Autoregressive Moving Average (ARMA)  
-  Prophet  
+  Autoregressive Integrated Moving Average (ARIMA)  
   RidgeCV  
+  Prophet  
